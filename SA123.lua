@@ -1,4 +1,4 @@
--- discord.gg/tboyroblox
+-- discord.gg/sa123roblox
 
 
 shared.LoaderTitle = "Đăng Ký Kênh sa123";
